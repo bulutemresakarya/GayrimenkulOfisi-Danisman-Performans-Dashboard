@@ -4,19 +4,19 @@
 
 ## 🎯 Proje Özeti
 
-# 🏠 RE/MAX True - Enterprise Performance Dashboard
+# 🏠 X Ofisi - Enterprise Performance Dashboard
 
 > **Proje Durumu:** Production (Pasif)
 > **Teknoloji:** React 18, TypeScript, Node.js, PostgreSQL, Google Sheets API
 
-**RE/MAX True Dashboard**, 40'tan fazla gayrimenkul danışmanının satış performansını, ofis cirosunu ve rekabet analizlerini **gerçek zamanlı** olarak takip eden, Google Sheets tabanlı verileri modern ve interaktif bir web arayüzüne dönüştüren kapsamlı bir SaaS çözümüdür.
+**X Ofisi Dashboard**, 40'tan fazla gayrimenkul danışmanının satış performansını, ofis cirosunu ve rekabet analizlerini **gerçek zamanlı** olarak takip eden, Google Sheets tabanlı verileri modern ve interaktif bir web arayüzüne dönüştüren kapsamlı bir SaaS çözümüdür.
 
 Bu sistem, manuel raporlama süreçlerini otomatize ederek ofis verimliliğini **%1200** artırmış ve ofis içi rekabeti gamification (oyunlaştırma) öğeleriyle desteklemiştir.
 
 ## 🎯 İş Problemi ve Çözüm
 
 ### 🔴 Problem: Manuel Süreçler ve Veri Körlüğü
-RE/MAX True ofisinde performans takibi manuel Excel tabloları üzerinden yapılıyordu.
+X Ofisi ofisinde performans takibi manuel Excel tabloları üzerinden yapılıyordu.
 *   **Zaman Kaybı:** Haftalık raporları hazırlamak yöneticilerin **8 saatini** alıyordu.
 *   **Hata Riski:** Manuel veri girişlerinde **%15 hata oranı** yaşanıyordu.
 *   **Motivasyon Eksikliği:** Danışmanlar performanslarını anlık göremediği için rekabet ortamı oluşmuyordu.
