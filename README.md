@@ -13,8 +13,6 @@
 
 Bu sistem, manuel raporlama süreçlerini otomatize ederek ofis verimliliğini **%1200** artırmış ve ofis içi rekabeti gamification (oyunlaştırma) öğeleriyle desteklemiştir.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=Dashboard+Preview)
-
 ## 🎯 İş Problemi ve Çözüm
 
 ### 🔴 Problem: Manuel Süreçler ve Veri Körlüğü
