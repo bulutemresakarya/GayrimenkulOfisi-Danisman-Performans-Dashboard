@@ -1,4 +1,4 @@
-# 🏠 RE/MAX True - Enterprise Performance Dashboard
+# 🏠 X Ofisi - Enterprise Performance Dashboard
 
 > **Not:** Bu proje, ticari bir ürün olduğu ve müşteri gizliliği içerdiği için kaynak kodları kapalıdır. Bu repository, projenin teknik mimarisini, çözülen problemleri ve kullanılan teknolojileri sergilemek amacıyla oluşturulmuş bir portföy referansıdır.
 
