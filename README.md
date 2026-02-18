@@ -2,13 +2,11 @@
 
 > **Not:** Bu proje, ticari bir ürün olduğu ve müşteri gizliliği içerdiği için kaynak kodları kapalıdır. Bu repository, projenin teknik mimarisini, çözülen problemleri ve kullanılan teknolojileri sergilemek amacıyla oluşturulmuş bir portföy referansıdır.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=Dashboard+Preview+Image+Here)
-
 ## 🎯 Proje Özeti
 
 # 🏠 RE/MAX True - Enterprise Performance Dashboard
 
-> **Proje Durumu:** Production (Canlı) - [truemax.com.tr](https://truemax.com.tr)  
+> **Proje Durumu:** Production (Pasif)
 > **Teknoloji:** React 18, TypeScript, Node.js, PostgreSQL, Google Sheets API
 
 **RE/MAX True Dashboard**, 40'tan fazla gayrimenkul danışmanının satış performansını, ofis cirosunu ve rekabet analizlerini **gerçek zamanlı** olarak takip eden, Google Sheets tabanlı verileri modern ve interaktif bir web arayüzüne dönüştüren kapsamlı bir SaaS çözümüdür.
