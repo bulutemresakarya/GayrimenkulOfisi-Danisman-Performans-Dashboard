@@ -1,22 +1,20 @@
-# 🏠 X Ofisi - Enterprise Performance Dashboard
+# 🏠 Emlak Ofisi - Ofis Performans Dashboard
 
 > **Not:** Bu proje, ticari bir ürün olduğu ve müşteri gizliliği içerdiği için kaynak kodları kapalıdır. Bu repository, projenin teknik mimarisini, çözülen problemleri ve kullanılan teknolojileri sergilemek amacıyla oluşturulmuş bir portföy referansıdır.
 
 ## 🎯 Proje Özeti
 
-# 🏠 X Ofisi - Enterprise Performance Dashboard
-
 > **Proje Durumu:** Production (Pasif)
 > **Teknoloji:** React 18, TypeScript, Node.js, PostgreSQL, Google Sheets API
 
-**X Ofisi Dashboard**, 40'tan fazla gayrimenkul danışmanının satış performansını, ofis cirosunu ve rekabet analizlerini **gerçek zamanlı** olarak takip eden, Google Sheets tabanlı verileri modern ve interaktif bir web arayüzüne dönüştüren kapsamlı bir SaaS çözümüdür.
+**Emlak Ofisi Dashboard**, 40'tan fazla gayrimenkul danışmanının satış performansını, ofis cirosunu ve rekabet analizlerini **gerçek zamanlı** olarak takip eden, Google Sheets tabanlı verileri modern ve interaktif bir web arayüzüne dönüştüren kapsamlı bir SaaS çözümüdür.
 
 Bu sistem, manuel raporlama süreçlerini otomatize ederek ofis verimliliğini **%1200** artırmış ve ofis içi rekabeti gamification (oyunlaştırma) öğeleriyle desteklemiştir.
 
 ## 🎯 İş Problemi ve Çözüm
 
 ### 🔴 Problem: Manuel Süreçler ve Veri Körlüğü
-X Ofisi ofisinde performans takibi manuel Excel tabloları üzerinden yapılıyordu.
+Emlak ofisinde performans takibi manuel Excel tabloları üzerinden yapılıyordu.
 *   **Zaman Kaybı:** Haftalık raporları hazırlamak yöneticilerin **8 saatini** alıyordu.
 *   **Hata Riski:** Manuel veri girişlerinde **%15 hata oranı** yaşanıyordu.
 *   **Motivasyon Eksikliği:** Danışmanlar performanslarını anlık göremediği için rekabet ortamı oluşmuyordu.
