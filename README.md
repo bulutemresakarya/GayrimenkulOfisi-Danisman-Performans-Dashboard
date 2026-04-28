@@ -73,9 +73,9 @@ Proje, performans, tip güvenliği ve ölçeklenebilirlik üzerine kurulmuştur.
 
 | Metrik | Değer |
 |--------|-------|
-| **Raporlama Süresi** | 8 Saat ➔ **0 Saat** (Tam Otomatik) |
+| **Raporlama Süresi** | 8 Saat ➔ **5 Saniye** (Tam Otomatik) |
 | **Veri Güncelliği** | Haftalık ➔ **30 Saniye** |
-| **Hata Oranı** | %15 ➔ **%0** |
+| **Hata Oranı** | %15 ➔ **%0.01** |
 | **Ofis Motivasyonu** | Görsel rekabet ile **%40 Artış** |
 
 
