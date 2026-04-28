@@ -78,6 +78,11 @@ Proje, performans, tip güvenliği ve ölçeklenebilirlik üzerine kurulmuştur.
 | **Hata Oranı** | %15 ➔ **%0** |
 | **Ofis Motivasyonu** | Görsel rekabet ile **%40 Artış** |
 
+
+### 📸 Ekran Görüntüleri
+
+<img width="610" height="637" alt="screenshot_gui" src="https://github.com/bulutemresakarya/GayrimenkulOfisi-Danisman-Performans-Dashboard/blob/main/1-pc.png?raw=true" />
+
 ---
 
 **Geliştirici:** Bulut Emre Sakarya
