@@ -81,7 +81,23 @@ Proje, performans, tip güvenliği ve ölçeklenebilirlik üzerine kurulmuştur.
 
 ### 📸 Ekran Görüntüleri
 
-<img width="610" height="637" alt="screenshot_gui" src="https://github.com/bulutemresakarya/GayrimenkulOfisi-Danisman-Performans-Dashboard/blob/main/1-pc.png?raw=true" />
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/bulutemresakarya/GayrimenkulOfisi-Danisman-Performans-Dashboard/blob/main/1-pc.png?raw=true" width="250px;" alt="Ana Ekran"/><br /><sub><b>Ana Ekran (Desktop)</b></sub></td>
+    <td align="center"><img src="https://github.com/bulutemresakarya/GayrimenkulOfisi-Danisman-Performans-Dashboard/blob/main/2-pc.png?raw=true" width="250px;" alt="Dönemsel"/><br /><sub><b>Dönemsel Performans Analizi (Desktop)</b></sub></td>
+    <td align="center"><img src="https://github.com/bulutemresakarya/GayrimenkulOfisi-Danisman-Performans-Dashboard/blob/main/3-pc.png?raw=true" width="250px;" alt="Haftalik"/><br /><sub><b>Haftalık Ciro Liderleri</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="resim-linki-4.png" width="250px;" alt="Kulüp Hedefleri"/><br /><sub><b>Kulüp Hedefleri</b></sub></td>
+    <td align="center"><img src="resim-linki-5.png" width="250px;" alt="TV Kiosk Modu"/><br /><sub><b>TV Kiosk Modu</b></sub></td>
+    <td align="center"><img src="resim-linki-6.png" width="250px;" alt="Recruiting"/><br /><sub><b>Recruiting Panosu</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="resim-linki-7.png" width="250px;" alt="Performans Analizi"/><br /><sub><b>Performans Analizi</b></sub></td>
+    <td align="center"><img src="resim-linki-8.png" width="250px;" alt="Trendler"/><br /><sub><b>Trend Tahminleri</b></sub></td>
+    <td align="center"><img src="resim-linki-9.png" width="250px;" alt="Ayarlar"/><br /><sub><b>Sistem Ayarları</b></sub></td>
+  </tr>
+</table>
 
 ---
 
