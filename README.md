@@ -1,3 +1,15 @@
+> ## 📦 Bu depo arşivlendi
+>
+> İçerik güncel ve genişletilmiş haliyle kişisel siteme taşındı:
+>
+> ### 👉 **[Teknik vaka analizini oku](https://bulutemresakarya.github.io/vaka-analizi/dashboard/)**
+>
+> Projenin interaktif demosu: **[https://bulutemresakarya.github.io/dashboard/](https://bulutemresakarya.github.io/dashboard/)**
+>
+> Aşağıdaki metin arşiv amaçlı korunmuştur.
+
+---
+
 # 🏠 Emlak Ofisi - Ofis Performans Dashboard
 
 > **Not:** Bu proje, ticari bir ürün olduğu ve müşteri gizliliği içerdiği için kaynak kodları kapalıdır. Bu repository, projenin teknik mimarisini, çözülen problemleri ve kullanılan teknolojileri sergilemek amacıyla oluşturulmuş bir portföy referansıdır.
